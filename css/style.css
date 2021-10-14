@@ -187,7 +187,7 @@ header{
     padding: 30px 0;
 
     /* Your code here */
-    text-align: end;
+    text-align: right;
   }
 
   .container{
@@ -200,7 +200,6 @@ header{
 
   .about-image{
     grid-column: 2/ span 2;
-    grid-row: ;
   
   }
 
